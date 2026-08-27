@@ -1,4 +1,4 @@
-# Virtual-Data-Science-with-Python-Apprentice-Intern week 3
+# Virtual-Data-Science-with-Python-Apprentice-Intern 
 # Week 3 – Statistical Analysis and Hypothesis Testing in Python
 
 ## 📌 Overview
